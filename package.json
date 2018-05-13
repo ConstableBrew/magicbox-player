@@ -1,0 +1,16 @@
+{
+  "name": "magicbox-player",
+  "version": "1.0.0",
+  "description": "Magicbox kiosk video player",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConstableBrew/magicbox-player.git"
+  },
+  "author": "Michael Brewer",
+  "license": "MIT",
+  "homepage": "https://github.com/ConstableBrew/magicbox-player#readme",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
