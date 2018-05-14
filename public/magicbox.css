@@ -10,3 +10,8 @@ video {
     position: absolute;
     width: 100%;
 }
+
+body {
+    max-height: 100vh;
+    max-width: 100vw;
+}
