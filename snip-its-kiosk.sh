@@ -5,7 +5,7 @@
 
 ############### Configuration
 
-mainsite=http://snipits-magicbox.herokuapp.com/
+mainsite=http://snipits-overhead-video.herokuapp.com/
 #Site that will be loaded as default after KIOSK start.
 
 log=/var/log/make-kiosk.log
